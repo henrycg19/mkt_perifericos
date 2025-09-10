@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # Henry Bracamonte Diaz - Cambio hoy 10/09/2025
+# Proceso de Generacion de Medios - MKT
 
 """Example Airflow DAG that performs an export from BQ tables listed in
 config file to GCS, copies GCS objects across locations (e.g., from US to
