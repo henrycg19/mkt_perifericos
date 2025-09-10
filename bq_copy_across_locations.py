@@ -11,6 +11,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+# Henry Bracamonte Diaz - Cambio hoy 10/09/2025
 
 """Example Airflow DAG that performs an export from BQ tables listed in
 config file to GCS, copies GCS objects across locations (e.g., from US to
